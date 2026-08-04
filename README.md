@@ -16,3 +16,7 @@ This commands registered all the commands from my code to your Discord bot. If y
 
 Step 6. Run the command "npm start"
 This will start the bot
+# Things To Note
+The bot come's with a built in RPC, no need to worry about creating your own.
+This code is free to use as all my code is but credit is appreciated.
+The bot may not be able to pull all stats about certain things from the API.
