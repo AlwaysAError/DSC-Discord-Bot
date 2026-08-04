@@ -11,7 +11,7 @@ Step 4. Run the below command in an active CMD (admin or not does not matter)
 npm init -y
 npm install discord.js dotenv  
 
-Step 5. Run the command "node register-commands.js" in CMD.
+Step 5. Run the command "node register-commands.js" in CMD.  
 This commands registered all the commands from my code to your Discord bot. If you have any existing commands they will be over written.  
 
 Step 6. Run the command "npm start"
