@@ -7,14 +7,14 @@ Step 2. Rename the file "FIXME.env" to ".env" removing the "FIXME" part of the f
 
 Step 3. Open the file ".env" and replace "BOT_TOKEN_HERE" with your Discord bot token and replace "CLIENT_ID_HERE" with your bots client ID.  
 
-Step 4. Run the below command in an active CMD (admin or not does not matter)
-npm init -y
+Step 4. Run the below command in an active CMD (admin or not does not matter)  
+npm init -y  
 npm install discord.js dotenv  
 
 Step 5. Run the command "node register-commands.js" in CMD.  
 This commands registered all the commands from my code to your Discord bot. If you have any existing commands they will be over written.  
 
-Step 6. Run the command "npm start"
+Step 6. Run the command "npm start"  
 This will start the bot
 # Things To Note
 The bot come's with a built in RPC, no need to worry about creating your own.  
