@@ -20,6 +20,6 @@ This will start the bot
 The bot come's with a built in RPC, no need to worry about creating your own.  
 This code is free to use as all my code is but credit is appreciated.  
 The bot may not be able to pull all stats about certain things from the API.  
-#DSC
+# DSC
 Discord: https://discord.gg/McdwTWCHR9  
 DSC API: https://dsc.wilkingames.net/api
