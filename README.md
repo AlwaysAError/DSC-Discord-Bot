@@ -1,4 +1,4 @@
-# DSC-player-data-discord-bot
+# DSC-Discord-Bot
 This code interrogates the DSC API into a Discord bot allowing user's to search for the name's of player's in game and get their in game stats.
 # SetUp
 Step 1. Drag and drop all file's to the file path: C:\Users\YOUR SYSTEM NAME HERE  
