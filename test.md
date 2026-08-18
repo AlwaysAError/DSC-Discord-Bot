@@ -22,12 +22,10 @@ The domain will show as something like yourdomain.org but we will be updating th
    4. Set "Proxy status" off (will auto change later when it is required). [Example Image](https://files.catbox.moe/04bses.png)  
 
 8. Select the normally Blue button called "Save".  
-
 And just like that you're [CloudFlare](https://www.cloudflare.com) domain is ready.  
-
 #### Part 2 - Setting Up You're VPS And The DSC Server Hoster  
 
-1. On you're VPS open a PowerShell Windows as an Administrator and run the below commands:  
+1. On you're VPS open a PowerShell Windows as an Administrator and run the below commands:
 
 New-NetFirewallRule -DisplayName "DSC HTTPS" -Direction Inbound -Protocol TCP -LocalPort 443 -Action Allow  
 
